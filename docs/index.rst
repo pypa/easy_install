@@ -1,4 +1,4 @@
-Welcome to skeleton documentation!
+Welcome to easy_install documentation!
 ========================================
 
 .. toctree::
@@ -7,7 +7,7 @@ Welcome to skeleton documentation!
    history
 
 
-.. automodule:: skeleton
+.. automodule:: easy_install
     :members:
     :undoc-members:
     :show-inheritance:
